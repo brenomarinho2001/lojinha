@@ -7,7 +7,7 @@
   }
   
 *{
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 
    
 }
@@ -74,7 +74,3 @@ html{
     margin-bottom: 20px;
 }
 
-.boxitens{
-    margin-left: 10%;
-    margin-right: 10%;
-}
